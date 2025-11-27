@@ -26,9 +26,3 @@ Basic concurrency concepts: threads, synchronization, semaphores, the Dining Phi
    ```bash
    jupyter notebook lab.ipynb
    ```
-
-## Screenshot
-
-<div align="center">
-  <img src="screenshot.png" alt="Screenshot" />
-</div>
